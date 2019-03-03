@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "OPENLAB"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "We are doing something."
   location         : "Somewhere"
   email            :
   links:
